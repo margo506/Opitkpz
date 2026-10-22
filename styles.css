@@ -2,14 +2,17 @@ body {
     font-family: Arial, sans-serif;
     background-color: #f8f8f8;
     color: #333;
-    margin: 20px;
+    margin: 20px; 
 }
 
 h1 {
     color: #2c3e50;
     text-align: center;
 }
+<<<<<<< HEAD
 
 p {
     margin-bottom: 15px;
 }
+=======
+>>>>>>> 3cf7f60205b693db01ca161e39141825a22d4fb5
